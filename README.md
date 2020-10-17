@@ -1,4 +1,4 @@
-# entomophagy_on_web
+# Entomophagy on web
 * https://www.facebook.com/groups/entomophagy
 
 # Organization
