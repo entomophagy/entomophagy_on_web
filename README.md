@@ -1,5 +1,6 @@
 # Entomophagy on web
 * https://www.facebook.com/groups/entomophagy
+* https://www.facebook.com/insectcuisine/
 * https://insectcuisine.jp
 
 # Organization
