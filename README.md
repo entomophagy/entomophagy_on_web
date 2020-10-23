@@ -1,4 +1,4 @@
-# Entomophagy on web
+# SNS
 * https://www.facebook.com/groups/entomophagy
 
 # Insectcuisine
