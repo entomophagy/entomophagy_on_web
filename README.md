@@ -8,6 +8,7 @@
 # Organization
 * https://www.entomophagy.or.jp
 * https://shockonken.org
+* https://semitama.jp
 
 # Commercial companies
 * https://takeo.tokyo/
