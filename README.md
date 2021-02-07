@@ -13,3 +13,5 @@
 * https://takeo.tokyo/
 * https://entomo.jp/
 * https://bugmo.jp/
+* https://www.mnhhappy.com
+  * https://www.concricket.com
