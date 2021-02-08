@@ -16,3 +16,6 @@
 * https://bugmo.jp/
 * https://www.mnhhappy.com
   * https://www.concricket.com
+
+# Blog
+* https://www.bugburger.se/
