@@ -16,6 +16,7 @@
 * https://bugmo.jp/
 * https://www.mnhhappy.com
   * https://www.concricket.com
+* https://www.muji.com/jp/ja/feature/food/460936
 
 # Blog
 * https://www.bugburger.se/
