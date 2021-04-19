@@ -17,6 +17,8 @@
 * https://www.mnhhappy.com
   * https://www.concricket.com
 * https://www.muji.com/jp/ja/feature/food/460936
+* https://futurenaut.co.jp
+  * https://shop.futurenaut.co.jp  
 
 # Blog
 * https://www.bugburger.se/
