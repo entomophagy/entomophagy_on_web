@@ -7,6 +7,7 @@
 
 # Organization
 * https://www.entomophagy.or.jp
+  * https://twitter.com/JpnEntomoEN 
 * https://shockonken.org
 * https://semitama.jp
 
