@@ -1,7 +1,6 @@
 # SNS
 * https://www.facebook.com/groups/entomophagy
 * https://entomophagy.world/
-* https://entomophagy.world/
 
 # InsectCuisine
 * https://www.facebook.com/insectcuisine/
