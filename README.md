@@ -25,3 +25,6 @@
 # Blog
 * https://www.bugburger.se/
 * https://kontube.work/
+
+# Other
+* https://github.com/entomophagy
